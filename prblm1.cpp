@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//start
 int firstOcc(int arr[], int n, int key){
 
     int s = 0, e = n-1;
