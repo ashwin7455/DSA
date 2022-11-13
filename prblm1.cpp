@@ -27,7 +27,7 @@ int firstOcc(int arr[], int n, int key){
 int main(){
     int even[5] = {1,2,3,3,5};
    
-    cout<< " first occurrence of 3 is " << firstOcc(even,5,3)<<endl;
+    cout<< " first occurrence of 3 is at index " << firstOcc(even,5,3)<<endl;
 
 
 return 0;
