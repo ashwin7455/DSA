@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+// to find pivot element
 int getPivot(int arr[], int n){
     int s = 0;
     int e = n-1;
